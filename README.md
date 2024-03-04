@@ -17,6 +17,7 @@ To get started, please make sure you have MySQL installed on your machine. If no
 
 ## Database Exploration📊
 In this project WorldDB will be explored, a SQL project delving into countries, languages, and life expectancy. Utilizing SQL queries, this exploration uncovers information from WorldDB database, revealing global trends and dynamics. Gain insightful perspectives on countries, linguistics, and life expectancy profiles from the dataset.
+
 <img width="1280" alt="MySQL" src="https://github.com/SKR235235/WorldDB/assets/156097439/044e20e9-e872-4351-b4b4-b91ff2fffa01">
 
 
